@@ -1,5 +1,5 @@
 # exify
-exify fotoğrafın bilgilerini çıkarma
+exify fotoğraf metası çıkarma
 
 ![git1](https://user-images.githubusercontent.com/7726424/124509819-3ca5b080-dddb-11eb-9bb1-e8d96232673f.JPG)
 
